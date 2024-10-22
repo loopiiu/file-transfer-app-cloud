@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "psyched-bonfire-436413-e2",
+  "private_key_id": "c9173588926952b3f01439a09695e0a4a33268d8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCydED0WayTadU4\nlcy+jRvn3bD347jOMlMhPOJ5Yus3IjckOEXaLBEjwUgGJpzd63NmOg1KS+4qJgdp\nEGudRfvfDq9N9m4/2wHuiMZP6304nNqNYV2RmWCxh8Es21quijuWmBDC1DZRLknd\n0FWCxODLzc+YQJ4jfCXlZTo8wmEhZftVVIy3VdNJN5jTuc8OXOlD0E+53Cu6nXH4\nG9VByMt2I8/weZgeVLdoI1iLSijXcheY889FIpJRDpgmLc5TXHt9T2OyF79SyURJ\nO005SgH+7z6Rj9UdaJ10+JDUxuAieGVOF3+gsLucb/uZQ6Qjod37+2tdHzzKNPTq\nOK3T87CLAgMBAAECggEAIG83xRGtZ6ejLOMxMOsFyOlGum9lzfhgmpht00Ey3jT2\nT7t4mrRKszR0ikWnWkBqm4hulPPjCD8cNrDY1l97bWnGXAWvuSRtn/S1Ep6LBmif\n4nVxY768T9gMOMJvo2yVcwQVe8vFSZD/tPSiLh/pebFhC1unQmzUmHKDGLr9m2uX\nZZMHdzLhx1Kh53ItkRwD67tgmWvn3adkwAEJAn1Ke3dYBgxsFUBw9cjsV3fjSnRk\nYlj0C8hySxa2/z9udtWyk810VaDK2UZOLAVoyUMO2TAWpHjmEjcZnMmnd5UiaU99\ne1kxuZh/K/kJQqD0oKsDuy5vrW3pBOLoa+jpDwYOUQKBgQDiTjIyyIxkutpyatI0\nNAyzmM8zRhrvTZgDS99GHvefShWJLu7n3Rg8IX8fwRf2KTbJkMM9wEAj4qUgN4LP\n6lkiHisMdfAggyCiGsYLKCaN9bXvZGZBwU+uhUpxlbLssQeDX5G4TakGLztlnIn8\nfU2c8wmG1Oot2JKLCUjUJD2kcQKBgQDJ3rAqEMeKgzjmMMQqIfcgFbn0jpDXS3TF\n2IvtnRPiQZKlE0P/v9gZcLQaAU6VRxwiZf6MaOF77Wr119AbCtfXPROjfzpiGyU+\njI7saFWPIceWwPB7TBURil9nGWlLj5MaHWc59J9ZbnKNdk+FzuRTpIVMKGfP/OiR\nK25lGvayuwKBgQClnurYBbPRyHo0wH7EW89r5QrHEKiHuDbnOrDV5bX9qr9mHaYU\npNemsjESMUPzEKibDcoFuFx4pteIY3fl6DGBaajBvtKVSMIqQQPtiF3nCQs0fzrj\nJrHFHKGlzRQca1b/S4Me6h8oeoqyy8Skt6OEmM3BErOsB9L/1DSrpTZD0QKBgDWa\n/9a7y/EZNXPTAVRa3p/ThSTO8uFo9SJQhZ/cdVpApWtWeVkhnYXr6rd5H1/+mRb9\nVKH+e9oHyr5rx6RWtcg/PMbO0zcYFETO2Gkor4eppbF/nJxxMKsOvpTHJ7Hb92kY\n4799GQ+Lh7nO8AENVo5rgsYdeKu/chaSnOcWSOpfAoGBAKtyTwV7lTZj/k0oobC3\n/w+O303FCVbNVjZITCcD6YsXjWei9ceR6ipSxl+3JKB/Mz2x4SPZhYe3vKZSrxgQ\nquHI0udXHn9YNOK/P7oEnrReH3UMW5OJm05BUSDSodkir/C9abLw0rPd+qsz1Gbr\ncloJJHMWfFTFDQSLeGOV1q7/\n-----END PRIVATE KEY-----\n",
+  "client_email": "file-transfer-alua@psyched-bonfire-436413-e2.iam.gserviceaccount.com",
+  "client_id": "101842736664356065213",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/file-transfer-alua%40psyched-bonfire-436413-e2.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
